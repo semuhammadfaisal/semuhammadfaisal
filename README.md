@@ -1,11 +1,39 @@
-- 👋 Hi, I’m @semuhammadfaisal
-- 👀 I’m interested in technology, programming, and exploring new innovations.
-- 🌱 I’m currently learning web development and enhancing my skills in Python.
-- 💞️ I’m looking to collaborate on open-source projects and connect with fellow developers to create meaningful solutions.
-- 📫 How to reach me: Feel free to send me a message on my GitHub profile or reach out via email at [sefaisal17gmail.com].
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm an avid rock climber and love conquering challenging peaks in my free time!
-<!---
-semuhammadfaisal/semuhammadfaisal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 Hi, I'm [Muhammad Faisal]!
+
+I'm a **Full Stack Developer** with a focus on the **MERN stack** (MongoDB, Express.js, React, Node.js). I enjoy building web applications and constantly learning new technologies to improve my skills.
+
+---
+
+## 🚀 Tech Stack
+
+### 🌐 Frontend
+- **Languages:** HTML, CSS, JavaScript
+- **Frameworks/Libraries:** React.js, Bootstrap, Tailwind
+
+### 🔧 Backend
+- **Languages:** JavaScript, Node.js
+- **Frameworks:** Express.js
+
+### 🗄️ Databases
+- **NoSQL:** MongoDB
+- **SQL:** MySQL, PostgreSQL
+
+### ⚙️ Tools & Platforms
+- Git, Postman, Docker, REST APIs, VS Code
+
+---
+
+## 🌱 Currently Learning
+- Advanced **TypeScript**
+- **GraphQL** for APIs
+- **Cloud Technologies** (AWS)
+
+---
+
+## 📫 Let's Connect
+- **GitHub:** [https://github.com/semuhammadfaisal/semuhammadfaisal/]
+- **LinkedIn:** [https://www.linkedin.com/in/faisal-fullstackdev/]
+
+---
+
+Check out my repositories below to see my projects! 💻
