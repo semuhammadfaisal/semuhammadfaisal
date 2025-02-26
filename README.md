@@ -7,7 +7,7 @@ I'm a **Full Stack Developer** with a focus on the **MERN stack** (MongoDB, Expr
 ## 🚀 Tech Stack
 
 ### 🌐 Frontend
-- **Languages:** HTML, CSS, JavaScript
+- **Languages:** JavaScript, Python, Java, Ruby, HTML, CSS
 - **Frameworks/Libraries:** React.js, Bootstrap, Tailwind
 
 ### 🔧 Backend
