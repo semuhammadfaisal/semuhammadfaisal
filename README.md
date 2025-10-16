@@ -1,53 +1,49 @@
-# Muhammad Faisal  
-*Principal Software Engineer | Distributed Systems Architect | Cloud-Native Specialist*  
+# Muhammad Faisal
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com) 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+*Principal Software Engineer | Distributed Systems Architect | Cloud-Native Specialist*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:your@email.com)
 
 ---
 
 ## 🔬 Core Competencies & Technical Mastery
 
 ### 🏗️ Systems Architecture & Engineering
-- **High-Performance Computing:** Real-time stream processing & low-latency distributed systems  
-- **Microservices Orchestration:** Kubernetes-native development, Service Mesh (Istio, Linkerd)  
-- **Event-Driven Architectures:** Kafka, RabbitMQ, Redis Pub/Sub patterns  
-- **Database Engineering:** Sharded MongoDB clusters, PostgreSQL tuning, Redis clustering  
+
+* **High-Performance Computing:** Real-time stream processing & low-latency distributed systems
+* **Microservices Orchestration:** Kubernetes-native development, Service Mesh (Istio, Linkerd)
+* **Event-Driven Architectures:** Kafka, RabbitMQ, Redis Pub/Sub patterns
+* **Database Engineering:** Sharded MongoDB clusters, PostgreSQL tuning, Redis clustering
 
 ---
 
 ### ☁️ Cloud Infrastructure & DevOps
 
-```yaml
-AWS: [EC2, S3, Lambda, RDS, DynamoDB, ECS, EKS, CloudFront]
-GCP: [GKE, Cloud Run, BigQuery, Pub/Sub, Cloud SQL]
-Azure: [AKS, Functions, CosmosDB, Service Bus]
-Infrastructure: Terraform, CloudFormation, Ansible, Helm
-CI/CD: Jenkins, GitLab CI, GitHub Actions, ArgoCD
-````
+**AWS:** EC2, S3, Lambda, RDS, DynamoDB, ECS, EKS, CloudFront
+**GCP:** GKE, Cloud Run, BigQuery, Pub/Sub, Cloud SQL
+**Azure:** AKS, Functions, CosmosDB, Service Bus
+**Infrastructure:** Terraform, CloudFormation, Ansible, Helm
+**CI/CD:** Jenkins, GitLab CI, GitHub Actions, ArgoCD
 
 ---
 
 ### 💻 Advanced Full-Stack Engineering
 
-```typescript
-// Frontend Architecture
-const techStack = {
-  frameworks: ['React', 'Next.js', 'Vue', 'Angular'],
-  stateManagement: ['Redux', 'MobX', 'NgRx', 'Zustand'],
-  buildTools: ['Webpack', 'Vite', 'Rollup', 'esbuild'],
-  testing: ['Jest', 'Cypress', 'Playwright', 'Testing Library']
-};
+**Frontend Architecture**
 
-// Backend Systems
-const backendExpertise = {
-  languages: ['Node.js', 'Python', 'Go', 'Java'],
-  frameworks: ['Express', 'NestJS', 'FastAPI', 'Spring Boot'],
-  protocols: ['gRPC', 'GraphQL', 'REST', 'WebSocket'],
-  security: ['OAuth2', 'JWT', 'SSL/TLS', 'API Gateway']
-};
-```
+* Frameworks: React, Next.js, Vue, Angular
+* State Management: Redux, MobX, NgRx, Zustand
+* Build Tools: Webpack, Vite, Rollup, esbuild
+* Testing: Jest, Cypress, Playwright, Testing Library
+
+**Backend Systems**
+
+* Languages: Node.js, Python, Go, Java
+* Frameworks: Express, NestJS, FastAPI, Spring Boot
+* Protocols: gRPC, GraphQL, REST, WebSocket
+* Security: OAuth2, JWT, SSL/TLS, API Gateway
 
 ---
 
@@ -114,6 +110,7 @@ const backendExpertise = {
 * *"Real-time Data Processing at Petabyte Scale"*
 * *"Kubernetes Native Development Best Practices"*
 
+---
 
 ## 🎯 Current Engineering Challenges
 
@@ -139,5 +136,3 @@ const backendExpertise = {
 ---
 
 🧠 *Crafted with precision, built for impact.*
-
-```
